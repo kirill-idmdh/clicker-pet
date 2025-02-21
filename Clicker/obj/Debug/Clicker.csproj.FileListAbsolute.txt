@@ -21,3 +21,15 @@ C:\Users\Kirill\Desktop\Projects C#\Clicker\Clicker\obj\Debug\Clicker.csproj.Cor
 C:\Users\Kirill\Desktop\Projects C#\Clicker\Clicker\obj\Debug\Clicker.exe
 C:\Users\Kirill\Desktop\Projects C#\Clicker\Clicker\obj\Debug\Clicker.pdb
 C:\Users\Kirill\Desktop\Projects C#\Clicker\Clicker\obj\Debug\Clicker.Settings.resources
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.ClickerForm.resources
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.Console.resources
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.Settings.resources
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\Kirill\Desktop\Projects_CSharp\Clicker\Clicker\obj\Debug\Clicker.pdb

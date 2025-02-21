@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Clicker
@@ -37,6 +31,7 @@ namespace Clicker
             this.Hide();
         }
 
+        //       NIGHTMARE
         private void LanguageSelected(object sender, EventArgs e)
         {
             switch (language_combobox.Text)
@@ -126,4 +121,5 @@ namespace Clicker
             this.clickerForm.b_i_c_t.ForeColor = Color.Silver;
         }
     }
+    //       NIGHTMARE END
 }
